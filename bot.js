@@ -6,7 +6,7 @@ function createBot() {
     port: 22241,
     username: 'Orphan obliterator',
     auth: 'offline',
-    version: '1.21.1'
+    version: false
   })
 
   bot.on('login', () => {
@@ -34,6 +34,7 @@ function createBot() {
 }
 
 createBot()
+
 
 
 
