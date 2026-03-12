@@ -4,7 +4,7 @@ function createBot() {
   const bot = mineflayer.createBot({
     host: 'nojewsandniggas.falixsrv.me',
     port: 22241,
-    username: 'AFK_Bot',
+    username: 'Faggot obliterator',
     auth: 'offline'
   })
 
@@ -30,3 +30,4 @@ function createBot() {
 
 
 createBot()
+
