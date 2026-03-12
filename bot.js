@@ -5,7 +5,7 @@ function createBot() {
     host: 'nojewsandniggas.falixsrv.me',
     port: 22241,
     username: 'Faggot obliterator',
-    auth: 'offline'
+    auth: 'offline',
     version: '1.21.11'
   })
 
@@ -31,5 +31,6 @@ function createBot() {
 
 
 createBot()
+
 
 
